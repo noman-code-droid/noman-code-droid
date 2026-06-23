@@ -1,122 +1,134 @@
 <div align="center">
 
-# Hi, I'm Muhammad Noman Ashraf 👋
+<img src="hero.svg" width="100%" alt="Muhammad Noman Ashraf - Android, Flutter, Full-Stack Developer" />
 
-### Android Developer &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Flutter Developer
+<br>
 
-📍 Punjab, Pakistan &nbsp;&nbsp;•&nbsp;&nbsp; 🎓 Final-Year CS Student, University of Gujrat &nbsp;&nbsp;•&nbsp;&nbsp; 🚀 Open to Internships & Junior Roles
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-noman-ashraf-7b0871210)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomanashraf339@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=noman-code-droid&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=noman-code-droid&label=Profile%20Views&color=3DDC84&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/noman-code-droid?label=Followers&style=for-the-badge&color=0F9D58&logo=github" alt="Followers" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-3DDC84?style=for-the-badge" alt="Open to internships" />
 
 </div>
 
 <br>
 
-## 📑 Quick Navigation
-
-[About Me](#-about-me) · [Featured Projects](#-featured-projects) · [Tech Stack](#️-tech-stack) · [GitHub Stats](#-github-stats) · [Achievements](#-achievements) · [Contact](#-lets-connect)
+> *Most profile READMEs describe a developer. This one is built like one of his apps — versioned, in progress, and shipping in public.*
 
 <br>
 
-## 👨‍💻 About Me
+## `$ whoami`
 
-| | |
-|---|---|
-| 🎓 | Final-year **Computer Science** student at **University of Gujrat** (2022–2026) |
-| 📱 | Building **native Android**, **Flutter**, and **full-stack web** applications |
-| 💼 | Delivered a **paid commercial client project** and an **AI-integrated final year project** |
-| 🛠️ | 10+ portfolio builds spanning mobile, desktop, and web |
-| 🧠 | Skilled in clean architecture, real-time systems, sensor integration, AI APIs, and database design |
-| 🏅 | Merit Scholarship recipient & active university society leader |
-| 🌱 | Currently building **POSAPP** — a multi-device restaurant POS platform |
-| 📫 | Reach me at **nomanashraf339@gmail.com** |
+```
+> Final-year CS student, University of Gujrat (2022–2026)
+> Shipped: 1 paid commercial client app, 1 AI-integrated final year project
+> Currently building: POSAPP — real-time, offline-first restaurant POS
+> Uploading 14+ projects to this profile, one repo at a time — track progress below
+> Looking for: Android / Flutter / Full-Stack internship or junior role
+```
 
 <br>
 
-## 🚀 Featured Projects
+## 📦 Project upload tracker
+
+This isn't a static list — it's a live build log. Every project below started as a finished app on my machine; each gets its own repo, real source code, and a README written from how the app actually works (not boilerplate).
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🧭 TravelBuddy
-**AI Ride-Sharing & Trip Assistant** · *Final Year Project*
-
-Native Android app for secure inter-city cost-sharing with a Gemini-powered travel assistant, live GPS tracking, OSRM-based fare estimation, KYC verification, and an SOS safety suite.
-
-`Kotlin` `MVVM` `Firebase` `Gemini AI` `OSRM` `Google Maps`
-
-</td>
-<td width="50%" valign="top">
-
-### 🍽️ POSAPP
-**Multi-Device Restaurant POS Platform** · *In Progress*
-
-Full restaurant POS system with Android waiter/kitchen apps, a React admin dashboard, and a real-time Node.js + Socket.IO LAN backend with offline-first architecture.
-
-`Kotlin` `Node.js` `Express` `Socket.IO` `React`
-
-</td>
+<th align="left">Status</th>
+<th align="left">Project</th>
+<th align="left">Stack</th>
+<th align="left">What it does</th>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🔒 CarLynk
-**Privacy-First Vehicle Communication App**
-
-Cross-platform Flutter app for anonymous QR-based vehicle owner messaging, with FCM notifications, deep linking, and a real-time analytics dashboard.
-
-`Flutter` `Dart` `Firebase` `Riverpod` `GoRouter`
-
-</td>
-<td width="50%" valign="top">
-
-### ☀️ SolarAlign
-**Solar Panel Field Measurement Tool**
-
-Native Android app for solar installers using accelerometer/magnetometer sensor fusion, AES-encrypted local storage, and biometric authentication.
-
-`Kotlin` `Room` `SQLCipher` `SensorManager`
-
-</td>
+<td>✅ Live</td>
+<td><b>Blood Bank Management System</b></td>
+<td><code>C++</code></td>
+<td>Console CRUD app for donor & blood stock records, file-based storage</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 📄 AI Tender Analyzer
-**Document Intelligence Web App**
-
-Parses tender documents and uses Gemini AI to generate structured executive summaries, eligibility criteria, and risk assessments.
-
-`React` `FastAPI` `Python` `Gemini AI` `PyMuPDF`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎵 Spotify Clone
-**Full-Stack Music Streaming App**
-
-Production-grade streaming app with real-time messaging, Clerk SSO authentication, and a custom audio player with queue management.
-
-`React` `TypeScript` `Node.js` `MongoDB` `Socket.IO`
-
-</td>
+<td>✅ Live</td>
+<td><b>Balloon Shooting Game</b></td>
+<td><code>x86 Assembly</code></td>
+<td>Real-time arcade game using direct video memory writes & BIOS interrupts</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td>🔜 Uploading</td>
+<td><b>TravelBuddy</b> — Final Year Project</td>
+<td><code>Kotlin</code> <code>Gemini AI</code> <code>Firebase</code></td>
+<td>AI ride-sharing app: live GPS tracking, fare engine, KYC, SOS safety suite</td>
+</tr>
+<tr>
+<td>🔜 Uploading</td>
+<td><b>POSAPP</b></td>
+<td><code>Kotlin</code> <code>Node.js</code> <code>Socket.IO</code></td>
+<td>Multi-device restaurant POS — real-time sync across waiter/kitchen/admin</td>
+</tr>
+<tr>
+<td>🔜 Uploading</td>
+<td><b>CarLynk</b></td>
+<td><code>Flutter</code> <code>Riverpod</code> <code>Firebase</code></td>
+<td>Privacy-first anonymous vehicle-owner messaging via QR codes</td>
+</tr>
+<tr>
+<td>🔜 Uploading</td>
+<td><b>SolarAlign</b></td>
+<td><code>Kotlin</code> <code>SQLCipher</code> <code>SensorManager</code></td>
+<td>Sensor-fusion tilt/azimuth capture tool for solar installers</td>
+</tr>
+<tr>
+<td>🔜 Uploading</td>
+<td><b>AI Tender Analyzer</b></td>
+<td><code>React</code> <code>FastAPI</code> <code>Gemini AI</code></td>
+<td>Parses tender PDFs/DOCX into structured risk & eligibility summaries</td>
+</tr>
+<tr>
+<td>🔜 Uploading</td>
+<td><b>Spotify Clone</b></td>
+<td><code>React</code> <code>MongoDB</code> <code>Socket.IO</code></td>
+<td>Full-stack streaming app with real-time chat & custom audio player</td>
+</tr>
+<tr>
+<td>🔜 Uploading</td>
+<td><b>Mr. Burger POS</b> — Paid client work</td>
+<td><code>PHP</code> <code>MySQL</code></td>
+<td>Local POS system delivered to a fast-food client, offline-capable</td>
+</tr>
+<tr>
+<td>🔜 Uploading</td>
+<td><b>+ 6 more academic & personal projects</b></td>
+<td><code>C#</code> <code>Java</code> <code>Python</code></td>
+<td>RMS desktop app, console messaging app, ERD design, CNN face-matching, and more</td>
+</tr>
+</table>
 
-### 🍔 Mr. Burger POS
-**Paid Freelance Project**
+<div align="center">
+<sub>⭐ Star this repo or check back — this table updates as each project goes live.</sub>
+</div>
 
-Full-featured local point-of-sale system for a fast-food client, with secure PDO-based MySQL access and offline operation on Windows/XAMPP.
+<br>
 
-`PHP` `MySQL` `Tailwind CSS` `JavaScript`
+## 🧠 How I actually build things
+
+Not a skills list — a description of how each layer gets used in practice.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📱 Mobile
+Native Android in **Kotlin** with MVVM, Room, Retrofit, and Jetpack Compose. Cross-platform work in **Flutter/Dart** with Riverpod and GoRouter when one codebase needs to ship on both platforms fast.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### ⚙️ Backend
+**Node.js/Express** and **FastAPI** for APIs, with **Socket.IO** whenever a project needs live sync — restaurant orders, GPS positions, chat — rather than polling.
+
+</td>
+<td width="33%" valign="top">
+
+### 🗄️ Data
+**Firebase** for fast-moving mobile backends, **MySQL/MongoDB** when relational or document structure actually matters, and local **SQLite/Room** with SQLCipher for offline-first, encrypted-at-rest apps.
 
 </td>
 </tr>
@@ -124,94 +136,43 @@ Full-featured local point-of-sale system for a fast-food client, with secure PDO
 
 <br>
 
-## 🛠️ Tech Stack
-
-<table>
-<tr><td><b>Languages</b></td><td>
-
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-</td></tr>
-<tr><td><b>Mobile</b></td><td>
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-
-</td></tr>
-<tr><td><b>Backend & APIs</b></td><td>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-</td></tr>
-<tr><td><b>Databases</b></td><td>
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
-</td></tr>
-<tr><td><b>Frontend</b></td><td>
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-</td></tr>
-<tr><td><b>Tools</b></td><td>
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</td></tr>
-</table>
-
-<br>
-
-## 📊 GitHub Stats
+## 📊 The numbers
 
 <div align="center">
+<table>
+<tr>
+<td>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=noman-code-droid&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman-code-droid&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=noman-code-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=0F9D58&text_color=C9D1D9" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noman-code-droid&theme=tokyonight&hide_border=true" />
+</td>
+<td>
 
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman-code-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&text_color=C9D1D9" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=noman-code-droid&theme=tokyonight&hide_border=true&background=0D1117&ring=3DDC84&fire=0F9D58&currStreakLabel=3DDC84" alt="GitHub Streak" />
 </div>
 
 <br>
 
-## 🏆 Achievements
+## 🛣️ What's next
 
-| Achievement | Detail |
-|---|---|
-| 🎓 **Merit Scholarship** | Fauji Foundation — awarded based on Matriculation academic performance |
-| 💼 **Paid Commercial Delivery** | Built and delivered Mr. Burger POS as a freelance project while a full-time student |
-| 📜 **HP LIFE Certifications** | Data Science and Analytics · AI for Beginners |
-| 📝 **Documentation Team Head** | Mandi Bahauddin Computing Society (MCS), University of Gujrat |
-| ⚽ **Football Team Player** | Represented the CS department in the University Sports Gala |
+A clickable portfolio site is in the works — built from scratch (not a template), where you can open each app and walk through real screens instead of just reading about them. It'll go live once the project repos above are filled in with real screenshots and demos.
 
 <br>
 
-## 📫 Let's Connect
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-noman-ashraf-7b0871210)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomanashraf339@gmail.com)
+### 📫 Let's talk
+
+<a href="https://www.linkedin.com/in/muhammad-noman-ashraf-7b0871210"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:nomanashraf339@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/noman-code-droid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<sub>If you read this far, you're exactly the kind of person I'd want reviewing my code. Let's talk.</sub>
 
 </div>
