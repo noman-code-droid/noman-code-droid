@@ -199,7 +199,7 @@ const noman = {
 
 ### See every project with full descriptions, tech breakdowns, and screenshots:
 
-[![Portfolio](https://img.shields.io/badge/noman--portfolio-Live%20Site-3DDC84?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL_HERE)
+[![Portfolio](https://img.shields.io/badge/noman--portfolio-Live%20Site-3DDC84?style=for-the-badge&logo=googlechrome&logoColor=white)](https://noman-code-droid.github.io/portfolio/)
 
 > *Built with vanilla HTML/CSS/JS — terminal-themed, zero frameworks, fully responsive.*
 
