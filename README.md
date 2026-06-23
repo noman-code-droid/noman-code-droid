@@ -1,178 +1,302 @@
 <div align="center">
 
-<img src="hero.svg" width="100%" alt="Muhammad Noman Ashraf - Android, Flutter, Full-Stack Developer" />
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=200&section=header&text=Muhammad%20Noman%20Ashraf&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20|%20Full-Stack%20Developer%20|%20Flutter%20Developer&descAlignY=55&descAlign=50"/>
 
-<br>
+<!-- Animated Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=800&lines=Welcome+to+My+Digital+Space!+%F0%9F%91%8B;Building+Native+Android+%26+Flutter+Apps;Full-Stack+%7C+AI-Integrated+Systems;Open+to+Internships+%26+Junior+Roles;Turning+Ideas+into+Working+Apps" alt="Typing Animation" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=noman-code-droid&label=Profile%20Views&color=3DDC84&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/noman-code-droid?label=Followers&style=for-the-badge&color=0F9D58&logo=github" alt="Followers" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-3DDC84?style=for-the-badge" alt="Open to internships" />
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=noman-code-droid&label=Profile%20Views&color=3DDC84&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/noman-code-droid?label=Followers&style=for-the-badge&color=0F9D58&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Android%20%26%20Flutter-3DDC84?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open%20For-Internships-2C5364?style=for-the-badge" alt="Open For" />
+</p>
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-> *Most profile READMEs describe a developer. This one is built like one of his apps — versioned, in progress, and shipping in public.*
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-<br>
+<img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## `$ whoami`
+```javascript
+const noman = {
+    pronouns: "He" | "Him",
+    location: "Punjab, Pakistan 🇵🇰",
+    education: "BS Computer Science, University of Gujrat (2022–2026)",
 
+    languages: ["Kotlin", "Java", "Dart", "Python", "C++", "C#", "JavaScript", "PHP"],
+
+    currentFocus: {
+        primary: "Android Development",
+        secondary: "Flutter & Cross-Platform Apps",
+        exploring: "AI-Integrated Mobile Systems"
+    },
+
+    expertise: {
+        android: ["MVVM", "Jetpack Compose", "Room", "Retrofit", "CameraX"],
+        flutter: ["Riverpod", "GoRouter", "Firebase SDK"],
+        backend: ["Node.js", "Express", "FastAPI", "Socket.IO"],
+        databases: ["Firebase", "MySQL", "MongoDB", "SQLite"]
+    },
+
+    currentProject: "POSAPP - Multi-Device Restaurant POS Platform",
+    lifePhilosophy: "Build clean, ship working, iterate fast",
+    funFact: "Delivered a paid client project while still a full-time student!"
+};
 ```
-> Final-year CS student, University of Gujrat (2022–2026)
-> Shipped: 1 paid commercial client app, 1 AI-integrated final year project
-> Currently building: POSAPP — real-time, offline-first restaurant POS
-> Uploading 14+ projects to this profile, one repo at a time — track progress below
-> Looking for: Android / Flutter / Full-Stack internship or junior role
+
+<br clear="right"/>
+
+**🎯 Quick Highlights:**
+- 🔭 Building **POSAPP** — a multi-device restaurant POS platform with real-time sync
+- 🌱 Final-year CS student, actively expanding into AI-integrated mobile systems
+- 💼 Delivered a **paid commercial client project** while a full-time student
+- 🤝 Open to Android, Flutter, and Full-Stack internship/junior roles
+- 📫 Reach me: **nomanashraf339@gmail.com**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack & Expertise
+
+<div align="center">
+
+### 📱 Mobile Universe
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,androidstudio" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,js,ts" />
+</p>
+
+### ⚙️ Backend Powerhouse
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,py,php,cs,dotnet" />
+</p>
+
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,sqlite,mariadb" />
+</p>
+
+### 🤖 AI & APIs
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini_AI-3DDC84?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
+  <img src="https://img.shields.io/badge/OSRM_API-0F9D58?style=for-the-badge&logo=mapbox&logoColor=white" alt="OSRM" />
+  <img src="https://img.shields.io/badge/Google_Maps_SDK-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Maps SDK" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" />
+  <img src="https://img.shields.io/badge/Crystal_Reports-3DDC84?style=for-the-badge" alt="Crystal Reports" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+
+<div align="center">
+
+### 📈 Performance Metrics
+
+<table>
+  <tr>
+    <td>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=noman-code-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=0F9D58&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=noman-code-droid&theme=tokyonight&hide_border=true&background=0D1117&ring=3DDC84&fire=0F9D58&currStreakLabel=3DDC84" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+### 💻 Coding Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=noman-code-droid&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=3DDC84&line=0F9D58&point=FFFFFF&area_color=3DDC84&area=true&hide_border=true" alt="Contribution Graph" />
+
+### 🏆 Achievement Showcase
+
+<img src="https://github-profile-trophy.vercel.app/?username=noman-code-droid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+
+### 📊 Language Distribution
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman-code-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&text_color=C9D1D9&langs_count=10&card_width=600" alt="Top Languages" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Featured Projects
+
+<div align="center">
+
+### 🧭 TravelBuddy — AI Ride-Sharing & Trip Assistant
+*Final Year Project*
+
+```yaml
+🚀 Tech Stack: Kotlin • MVVM • Firebase • Google Gemini AI • OSRM API • Google Maps SDK
+✨ Features: Live GPS Tracking • Fare Estimation • AI Travel Assistant • KYC • SOS Safety Suite
+📱 Platform: Native Android
+🎨 Design: Material Design 3
 ```
 
-<br>
+### 🍽️ POSAPP — Multi-Device Restaurant POS Platform
+*In Progress*
 
-## 📦 Project upload tracker
+```yaml
+🚀 Tech Stack: Kotlin • Node.js • Express • Socket.IO • React • Tailwind CSS
+✨ Features: Real-Time Order Sync • Role-Based Access • Offline-First LAN Architecture
+📱 Platform: Android (Waiter/Kitchen) + React Admin Dashboard
+```
 
-This isn't a static list — it's a live build log. Every project below started as a finished app on my machine; each gets its own repo, real source code, and a README written from how the app actually works (not boilerplate).
+### 🔒 CarLynk — Privacy-First Vehicle Communication App
 
-<table>
-<tr>
-<th align="left">Status</th>
-<th align="left">Project</th>
-<th align="left">Stack</th>
-<th align="left">What it does</th>
-</tr>
-<tr>
-<td>✅ Live</td>
-<td><b>Blood Bank Management System</b></td>
-<td><code>C++</code></td>
-<td>Console CRUD app for donor & blood stock records, file-based storage</td>
-</tr>
-<tr>
-<td>✅ Live</td>
-<td><b>Balloon Shooting Game</b></td>
-<td><code>x86 Assembly</code></td>
-<td>Real-time arcade game using direct video memory writes & BIOS interrupts</td>
-</tr>
-<tr>
-<td>🔜 Uploading</td>
-<td><b>TravelBuddy</b> — Final Year Project</td>
-<td><code>Kotlin</code> <code>Gemini AI</code> <code>Firebase</code></td>
-<td>AI ride-sharing app: live GPS tracking, fare engine, KYC, SOS safety suite</td>
-</tr>
-<tr>
-<td>🔜 Uploading</td>
-<td><b>POSAPP</b></td>
-<td><code>Kotlin</code> <code>Node.js</code> <code>Socket.IO</code></td>
-<td>Multi-device restaurant POS — real-time sync across waiter/kitchen/admin</td>
-</tr>
-<tr>
-<td>🔜 Uploading</td>
-<td><b>CarLynk</b></td>
-<td><code>Flutter</code> <code>Riverpod</code> <code>Firebase</code></td>
-<td>Privacy-first anonymous vehicle-owner messaging via QR codes</td>
-</tr>
-<tr>
-<td>🔜 Uploading</td>
-<td><b>SolarAlign</b></td>
-<td><code>Kotlin</code> <code>SQLCipher</code> <code>SensorManager</code></td>
-<td>Sensor-fusion tilt/azimuth capture tool for solar installers</td>
-</tr>
-<tr>
-<td>🔜 Uploading</td>
-<td><b>AI Tender Analyzer</b></td>
-<td><code>React</code> <code>FastAPI</code> <code>Gemini AI</code></td>
-<td>Parses tender PDFs/DOCX into structured risk & eligibility summaries</td>
-</tr>
-<tr>
-<td>🔜 Uploading</td>
-<td><b>Spotify Clone</b></td>
-<td><code>React</code> <code>MongoDB</code> <code>Socket.IO</code></td>
-<td>Full-stack streaming app with real-time chat & custom audio player</td>
-</tr>
-<tr>
-<td>🔜 Uploading</td>
-<td><b>Mr. Burger POS</b> — Paid client work</td>
-<td><code>PHP</code> <code>MySQL</code></td>
-<td>Local POS system delivered to a fast-food client, offline-capable</td>
-</tr>
-<tr>
-<td>🔜 Uploading</td>
-<td><b>+ 6 more academic & personal projects</b></td>
-<td><code>C#</code> <code>Java</code> <code>Python</code></td>
-<td>RMS desktop app, console messaging app, ERD design, CNN face-matching, and more</td>
-</tr>
-</table>
+```yaml
+🚀 Tech Stack: Flutter • Dart • Firebase • Riverpod • GoRouter
+✨ Features: Anonymous QR Messaging • FCM Push Notifications • Real-Time Analytics Dashboard
+📱 Platform: Cross-Platform (Android/iOS)
+```
 
-<div align="center">
-<sub>⭐ Star this repo or check back — this table updates as each project goes live.</sub>
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🧠 How I actually build things
+## 🗂️ Full Project Tracker
 
-Not a skills list — a description of how each layer gets used in practice.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 📱 Mobile
-Native Android in **Kotlin** with MVVM, Room, Retrofit, and Jetpack Compose. Cross-platform work in **Flutter/Dart** with Riverpod and GoRouter when one codebase needs to ship on both platforms fast.
-
-</td>
-<td width="33%" valign="top">
-
-### ⚙️ Backend
-**Node.js/Express** and **FastAPI** for APIs, with **Socket.IO** whenever a project needs live sync — restaurant orders, GPS positions, chat — rather than polling.
-
-</td>
-<td width="33%" valign="top">
-
-### 🗄️ Data
-**Firebase** for fast-moving mobile backends, **MySQL/MongoDB** when relational or document structure actually matters, and local **SQLite/Room** with SQLCipher for offline-first, encrypted-at-rest apps.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 📊 The numbers
+> All 9 projects — from semester 1 to final year. Click **View** to open source where available.
 
 <div align="center">
-<table>
-<tr>
-<td>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=noman-code-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=0F9D58&text_color=C9D1D9" alt="GitHub Stats" />
+| # | Project | Stack | Year | Status | Repo |
+|---|---------|-------|------|--------|------|
+| 1 | 🩸 **Blood Bank Management System** | C++ · File I/O | 2022 | ✅ Live | [View](https://github.com/noman-code-droid/Blood-Bank-Management-System) |
+| 2 | 🎈 **Balloon Shooting Game** | x86 Assembly · emu8086 | 2022 | ✅ Live | [View](https://github.com/noman-code-droid/Balloon-Shooting-Game) |
+| 3 | 🍔 **Mr. Burger POS** | PHP · MySQL · Tailwind | 2024 | 🔒 Private | — |
+| 4 | 🎵 **Spotify Clone** | React · TypeScript · Node.js · MongoDB | 2024–25 | 🔧 Building | — |
+| 5 | 🧭 **TravelBuddy** | Kotlin · MVVM · Firebase · Gemini AI | 2025–26 | 🔧 Building | — |
+| 6 | 🍽️ **POSAPP** | Kotlin · Node.js · Socket.IO · React | 2026 | 🔧 Building | — |
+| 7 | 🔒 **CarLynk** | Flutter · Dart · Firebase · Riverpod | 2026 | 🔧 Building | — |
+| 8 | ☀️ **SolarAlign** | Kotlin · Room · SensorManager | 2026 | 🔧 Building | — |
+| 9 | 📄 **AI Tender Analyzer** | React · FastAPI · Gemini AI | 2026 | 🔧 Building | — |
 
-</td>
-<td>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman-code-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DDC84&text_color=C9D1D9" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=noman-code-droid&theme=tokyonight&hide_border=true&background=0D1117&ring=3DDC84&fire=0F9D58&currStreakLabel=3DDC84" alt="GitHub Streak" />
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛣️ What's next
-
-A clickable portfolio site is in the works — built from scratch (not a template), where you can open each app and walk through real screens instead of just reading about them. It'll go live once the project repos above are filled in with real screenshots and demos.
-
-<br>
+## 🌐 Live Portfolio
 
 <div align="center">
 
-### 📫 Let's talk
+### See every project with full descriptions, tech breakdowns, and screenshots:
 
-<a href="https://www.linkedin.com/in/muhammad-noman-ashraf-7b0871210"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:nomanashraf339@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/noman-code-droid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+[![Portfolio](https://img.shields.io/badge/noman--portfolio-Live%20Site-3DDC84?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL_HERE)
 
-<sub>If you read this far, you're exactly the kind of person I'd want reviewing my code. Let's talk.</sub>
+> *Built with vanilla HTML/CSS/JS — terminal-themed, zero frameworks, fully responsive.*
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Let's Connect & Collaborate
+
+<div align="center">
+
+### 🌐 Find Me Across The Web
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.linkedin.com/in/muhammad-noman-ashraf-7b0871210">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><br>
+        <img src="https://img.shields.io/badge/Professional-Network-3DDC84?style=flat-square" alt="Professional" />
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="mailto:nomanashraf339@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /><br>
+        <img src="https://img.shields.io/badge/Internship-Inquiries-0F9D58?style=flat-square" alt="Inquiries" />
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/noman-code-droid">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br>
+        <img src="https://img.shields.io/badge/Open-Source-2C5364?style=flat-square" alt="Open Source" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 💼 Open For Opportunities
+
+<p>
+  <img src="https://img.shields.io/badge/Internships-Available-3DDC84?style=for-the-badge&logo=briefcase&logoColor=white" alt="Internships" />
+  <img src="https://img.shields.io/badge/Junior%20Roles-Interested-0F9D58?style=for-the-badge&logo=briefcase&logoColor=white" alt="Junior Roles" />
+  <img src="https://img.shields.io/badge/Freelance-Open-2C5364?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelance" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💭 Developer Wisdom
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Quote" />
+
+### 🎯 My Coding Principles
+
+> **Clean Architecture** • **Offline-First Design** • **Real-Time Systems** • **Continuous Learning**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Current Focus & Goals
+
+<table align="center">
+  <tr>
+    <td align="center">🔭 <b>Building</b></td>
+    <td>POSAPP — a real-time, offline-first restaurant POS ecosystem</td>
+  </tr>
+  <tr>
+    <td align="center">🌱 <b>Learning</b></td>
+    <td>AI-integrated mobile systems, advanced Jetpack Compose, scalable backend design</td>
+  </tr>
+  <tr>
+    <td align="center">👯 <b>Collaborating</b></td>
+    <td>Open to exciting Android, Flutter, and Full-Stack projects</td>
+  </tr>
+  <tr>
+    <td align="center">💬 <b>Ask Me</b></td>
+    <td>Android Dev, Flutter, Real-Time Systems, Sensor Integration, Database Design</td>
+  </tr>
+  <tr>
+    <td align="center">⚡ <b>Fun Fact</b></td>
+    <td>Delivered a paid client project end-to-end while still a full-time student!</td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### 🌟 *"Building the future, one commit at a time"* 🚀
+
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=100&section=footer" width="100%"/>
+</p>
+
+**Thanks for visiting! Let's build something amazing together! ✨**
 
 </div>
